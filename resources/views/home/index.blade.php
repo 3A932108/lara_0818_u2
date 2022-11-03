@@ -4,8 +4,7 @@
 
 @section('content')
 
-    <h1>Home</h1>
+    <h1>this is{{ $name }}'s hame.</h1>
 
-    <p>Thisismybodycontent.</p>
 
 @endsection
