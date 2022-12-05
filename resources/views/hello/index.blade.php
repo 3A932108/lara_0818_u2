@@ -3,5 +3,5 @@
 @section('title', 'Hello')
 
 @section('content')
-    <p>This is my {{$name}}'s home.</p>
+    <h1>This is my {{ $name }}'s home.</h1>
 @endsection
